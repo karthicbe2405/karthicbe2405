@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **karthicbe2405/karthicbe2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/java.png"></code>
+<code><img height="40" src="https://stackify.com/wp-content/uploads/2018/09/Java-Debugging-Tips-1280x720.jpg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
