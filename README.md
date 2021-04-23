@@ -39,10 +39,8 @@ Language and Tools
 <br>
 <br>
 <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"  width="50"/>
-<img src="https://img.icons8.com/fluent/48/000000/sublime-text.png" width="50"/>
 <img src="https://img.icons8.com/plasticine/400/000000/github.png"  width="50"/>
 <img src="https://img.icons8.com/color/2x/26e07f/google-analytics.png"  width="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="50"/>
 
 </p>
 <br>
