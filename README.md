@@ -33,8 +33,8 @@ Language and Tools
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="50"/>
 <img src="https://icons8.com/icon/FQlr_bFSqEdG/node-js"  width="40"/>
 <img src="https://raghulrage.github.io/assets/img/spring.png"  width="70"/>
+<img src="https://img.icons8.com/metro/2x/ffffff/sql.png"  width="50"/>
 <img src="https://img.icons8.com/color/2x/26e07f/mongodb.png"  width="50"/>
-<img src="https://img.icons8.com/color/48/000000/mysql.png"  width="50"/>
 <br>
 <br>
 <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"  width="50"/>
