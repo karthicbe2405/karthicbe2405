@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karthicbe2405&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=karthicbe2405&layout=compact)
 -->
+### Connect with me
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
 ## My Repos
 
 [![Online-Movie-Ticket](https://github-readme-stats.vercel.app/api/pin/?username=karthicbe2405&repo=Online-Movie-Ticket&show_owner=true)](https://github.com/shinokada/Online-Movie-Ticket/tree/master)
@@ -48,3 +52,4 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/spring-boot.png"></code>
 -->
+[linkedin]: https://www.linkedin.com/in/karthick-kumar-867475191
