@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Karthick Kumar!
-<!--
-<a href="https://twitter.com/shinokada">
-  <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
-<a href="https://medium.com/@shinichiokada">
-  <img align="left" alt="Shinichi Okada | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
-</a>-->
 <br />
 <br />
 - 🌱 I’m currently Pursuing BE CSE 
@@ -61,7 +54,5 @@ Here are some ideas to get you started:
 
 [![Online-Movie-Ticket](https://github-readme-stats.vercel.app/api/pin/?username=karthicbe2405&repo=Online-Movie-Ticket&show_owner=true)](https://github.com/shinokada/Online-Movie-Ticket/tree/master)
 
-
-tent.com/shinokada/shinokada/master/assets/spring-boot.png"></code>
 
 [linkedin]: https://www.linkedin.com/in/karthick-kumar-867475191
