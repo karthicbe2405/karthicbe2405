@@ -31,7 +31,7 @@
 
 
 ### :zap: GitHub Stats
-
+<!--
 <center>
   <table>
     <tr>
@@ -39,8 +39,12 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
-</center>
+</center> 
+-->
 
+<h4 align="center">Profile Views</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{karthicbe2405}/count.svg" alt="Karthick Kumar :: Profile Views" /></p>
 
 [linkedin]: https://www.linkedin.com/in/karthick-kumar-867475191
 
