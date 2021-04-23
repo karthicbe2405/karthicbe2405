@@ -4,7 +4,10 @@
 
 <img src="https://github.com/karthicbe2405/karthicbe2405/blob/main/gitprofile%20image.png" alt="banner that says Karthick Kumar - BE CSE , Full Stack Developer , Freelancer.">
 
-### Connect with me:
+<h2 align="center"> 
+
+`📬 Get in touch
+`</h2>
 
 <br />
 
