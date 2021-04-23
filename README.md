@@ -24,7 +24,7 @@ Language and Tools
 `
 </h2>
 <p align="center">
-<img src="https://icons8.com/icon/FRRACRKRsw2s/java-coffee-cup-logo"  width="50"/>
+<img src="https://img.icons8.com/wired/2x/java-coffee-cup-logo.png"  width="50"/>
 <img src="https://img.icons8.com/color/2x/c-programming.png" width="50"/>
 <img src="https://img.icons8.com/dusk/48/000000/html-5.png"width="50"/>
 <img src="https://img.icons8.com/dusk/64/000000/css3.png"width="50"/>
