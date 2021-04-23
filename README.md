@@ -31,6 +31,7 @@ Language and Tools
 <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"  width="50"/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png"  width="50"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="50"/>
+<img src="https://icons8.com/icon/776/php"  width="50"/>
 <img src="https://img.icons8.com/color/2x/26e07f/nodejs.png"  width="60"/>
 <img src="https://raghulrage.github.io/assets/img/spring.png"  width="70"/>
 <img src="https://img.icons8.com/metro/2x/ffffff/sql.png"  width="50"/>
