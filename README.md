@@ -16,7 +16,6 @@
 
 <br>
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 
 <br />
@@ -88,5 +87,4 @@ Language and Tools
 
 <p align="center"><img src="https://profile-counter.glitch.me/{karthicbe2405}/count.svg" alt="Karthick Kumar :: Profile Views" /></p>
 
-[linkedin]: https://www.linkedin.com/in/karthick-kumar-867475191
 
