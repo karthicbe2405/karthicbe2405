@@ -1,9 +1,14 @@
 ### Hi there 👋, I'm Karthick Kumar!
 <br />
 <br />
+
 - 🌱 I’m currently Pursuing BE CSE 
 
+
+
 <br />
+
+
 
 <img src="https://github.com/karthicbe2405/karthicbe2405/blob/main/gitprofile%20image.png" alt="banner that says Karthick Kumar - BE CSE , Full Stack Developer , Freelancer.">
 
