@@ -4,14 +4,14 @@
 
 <img src="https://github.com/karthicbe2405/karthicbe2405/blob/main/gitprofile%20image.png" alt="banner that says Karthick Kumar - BE CSE , Full Stack Developer , Freelancer.">
 
-<h2 align="center"> 
+<h2> 
 
 `📬 Get in touch
 `</h2>
 
 <br />
 
-[<img align="justify" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 <br />
