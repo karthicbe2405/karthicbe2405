@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![Online-Movie-Ticket](https://github-readme-stats.vercel.app/api/pin/?username=karthicbe2405&repo=Online-Movie-Ticket&show_owner=true)](https://github.com/shinokada/Online-Movie-Ticket/tree/master)
 
 
-<!--
+
 **Languages and Tools:**  
 <code><img height="40" src=""></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/angular.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/spring-boot.png"></code>
--->
+
 [linkedin]: https://www.linkedin.com/in/karthick-kumar-867475191
