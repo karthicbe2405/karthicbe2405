@@ -11,7 +11,9 @@
 
 <br />
 <p align = "center">
-hello
+
+&nbsp; <a href="https://www.linkedin.com/in/karthick-kumar-867475191" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="50" /></a>
+
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 </p>
